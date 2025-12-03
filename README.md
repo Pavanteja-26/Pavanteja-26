@@ -1,62 +1,49 @@
-# 👋 Hey, I’m Pavan Teja 
+# 👋 Hey, I’m Pavan Teja (Pavanteja-26)
 
-I’m a Web Developer with a strong Data Science foundation. I build modern, responsive web applications and combine them with ML-driven features, analytics, and clean engineering practices. My work reflects practical problem-solving, data-driven thinking, and solid frontend fundamentals.
+Web Developer with a Data Science mindset. I build clean, responsive web interfaces and integrate ML-driven features when the problem demands it. My work focuses on clarity, performance, and real-world usability.
 
 ---
 
 ## 👤 About Me
-- 🔭 I’m currently working on modern web projects and ML-integrated apps  
-- 🌱 I’m currently learning advanced frontend patterns & ML workflows  
-- 👯 I’m looking to collaborate on web dev, data science, and automation tools  
-- 💬 Ask me about frontend development, Python, ML basics, and Streamlit apps  
-- 📫 Reach me at **pavantejamangaraju@gmail.com**  
-- ⚡ Fun fact: I mix Web Dev + Data Science to build real-world solutions  
+- 🔭 Working on modern web projects + ML-powered apps  
+- 🌱 Learning advanced frontend patterns & scalable design  
+- 👯 Open to collaborating on web dev, data science, and automation  
+- 💬 Ask me about frontend engineering, Python, ML basics, Streamlit  
+- 📫 Email: **pavantejamangaraju@gmail.com**  
+- ⚡ I blend Web Dev + Data Science to build practical solutions  
 
 ---
 
-## 🔥 Core Focus Areas
-- **Frontend Development:** HTML, CSS, JavaScript, UI/UX structuring, responsive layouts  
-- **Data Science & ML:** Python, data processing, predictive modeling, visualization  
-- **Product Thinking:** Building solutions that are functional, efficient, and user-centric  
-- **Developer Practices:** Clean code, version control, documentation, modular design  
-
----
-
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 ### **🌊 Ocean Safety Analytics Platform**
-A JavaScript-based platform providing ocean safety insights with clear visualization and structured datasets.  
-*Focus: Web UI, data analytics integration, interactive interface.*
+Interactive JS-based platform for visualizing ocean safety insights.  
+*Focus: UI/UX, visual clarity, data-driven interface.*
 
-### **🔋 EV Vehicle Demand Forecasting**
-ML-based demand prediction using county-level data.  
-*Focus: Data preprocessing, model deployment, real-world forecasting.*
+### **🔋 EV Demand Forecasting**
+ML model predicting EV adoption using county-level data.  
+*Focus: data preprocessing, forecasting, practical ML.*
 
 ### **🧬 Disease Prediction System**
-A data science project predicting diseases using ML classification techniques.  
-*Focus: EDA, ML pipelines, result interpretation.*
-
-### **🎙 Podcast Generator**
-Automates podcast feed processing using Python and GitHub Actions.  
-*Focus: Automation, scripting, workflow design.*
+Classification-based model for disease outcome prediction.  
+*Focus: ML workflow, analysis, usability.*
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Expertise
 
 **Frontend:** HTML, CSS, JavaScript  
-**Backend / Scripting:** Python  
-**Data Tools:** Jupyter Notebook, Pandas, NumPy, ML models  
-**Platforms:** GitHub, Streamlit  
-**Other:** Version control, clean documentation, sprint-based workflows
+**Data/ML:** Python, Pandas, NumPy, Jupyter  
+**Tools:** GitHub, Streamlit  
+**Practices:** clean structure, documentation, modular code  
 
 ---
 
-## 📌 What Makes My Work Stand Out
-- Strong blend of **Web Development + Data Science**  
-- Clear structure, readable code, clean repositories  
-- Projects built around **practical use-cases**, not just demos  
-- Consistent focus on **UI clarity, user experience, and performance**  
+## 🌟 Why My Work Stands Out
+- Strong balance of **Frontend Engineering + Data Science**  
+- Simple, readable, and well-structured repositories  
+- Real-world projects that prioritize user experience  
+- Consistent focus on clarity, performance, and maintainability  
 
 ---
 
@@ -66,5 +53,5 @@ Automates podcast feed processing using Python and GitHub Actions.
 
 ---
 
-Thanks for checking out my work!  
-Feel free to explore my repos — each one represents my learning, creativity, and growth as a developer.
+Thanks for stopping by!  
+Explore my repos — they reflect my growth, discipline, and passion for building meaningful digital experiences.
