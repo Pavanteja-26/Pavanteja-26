@@ -10,7 +10,8 @@ Web Developer with a Data Science mindset. I build clean, responsive web interfa
 - 👯 Open to collaborating on web dev, data science, and automation  
 - 💬 Ask me about frontend engineering, Python, ML basics, Streamlit  
 - 📫 Email: **pavantejamangaraju@gmail.com**  
-- ⚡ I blend Web Dev + Data Science to build practical solutions  
+- ⚡ I blend Web Dev + Data Science to build practical solutions
+- Visit My Website : https://pavantejamangaraju.vercel.app
 
 ---
 
