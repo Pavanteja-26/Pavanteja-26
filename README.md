@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Pavan Teja (Pavanteja-26)
+# 👋 Hey, I’m Pavan Teja
 
 Web Developer with a Data Science mindset. I build clean, responsive web interfaces and integrate ML-driven features when the problem demands it. My work focuses on clarity, performance, and real-world usability.
 
